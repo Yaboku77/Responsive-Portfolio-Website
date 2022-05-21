@@ -89,12 +89,7 @@ nav.main-nav .menu-icon {
     opacity:0.85;
 
     transition:all .5s;
-      
-    padding:13px 25px;
-
-    min-width:90px;
-
-    font-size:15px
+   
 }
 
 .btn.dark {
